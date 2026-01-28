@@ -1,83 +1,95 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Abdallah%20Ragab%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Abdallah%20Ragab&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
-# 👋 Hi, I'm Abdallah Ragab
-### 💻 MERN Stack Developer | Full-Stack Enthusiast | Open Source Contributor
+## 👋 Abdallah Ragab
+### Full-Stack MERN Developer | React & TypeScript Specialist
 
-I’m a passionate developer from Cairo, Egypt who loves building **scalable, clean, and modern web applications**.  
-I focus on **React, Node.js, Express, MongoDB**, and **TypeScript**, with strong knowledge in **Software Engineering principles** and **best practices**.  
+📍 Cairo, Egypt  
+💼 Open to Remote & On-site Opportunities  
 
----
-
-## 🔭 Current Focus
-- Building a **Task Management System** with React + TypeScript + MockAPI  
-- Improving **E-commerce Platform architecture**  
-- Learning **Advanced TypeScript Patterns** & **Backend Scalability**
+I’m a **Full-Stack MERN Developer** with strong experience building **scalable, secure, and high-performance web applications**.  
+I specialize in **React, TypeScript, Node.js, and MongoDB**, with a solid background in **software architecture, real-time systems, and performance optimization**.
 
 ---
 
-## 🧰 Tech Stack & Skills
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=github&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-### 🔒 Authentication & Security
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![CSRF Protection](https://img.shields.io/badge/CSRF-FF5722?style=for-the-badge)
-
-### 🧠 Software Engineering
-OOP • SOLID Principles • Design Patterns • Clean Code • Architecture Patterns
+## 🚀 Professional Highlights
+- Built **production-grade full-stack applications** with authentication, role-based access, and real-time features  
+- Developed **high-security React dashboards** for e-commerce & financial systems  
+- Improved application performance by **up to 35%** through modular architecture & optimization  
+- Experience with **WebSocket, Electron.js, and scalable backend APIs**
 
 ---
 
-## 🌟 Featured Projects
+## 🧰 Core Tech Stack
 
-| Project | Tech | Demo |
-|---------|------|------|
-| **Task-Manager-App** | React + TypeScript + MockAPI | 🔗 [Link](https://github.com/AbdullahRagaab/Task-Manager-App) |
-| **E-Commerce** | React + Node + Express + MongoDB | 🔗 [Link](https://github.com/AbdullahRagaab/E-Commerce) |
-| **The Wild Hotel** | React Admin Dashboard + Charts + Auth | 🔗 [Link](https://github.com/AbdullahRagaab/The-Wild-Hotel) |
-| **Movie App** | React + TMDB API | 🔗 [Link](https://github.com/AbdullahRagaab/MovieApp) |
-| **Portfolio** | React + Tailwind | 🔗 [Link](https://github.com/AbdullahRagaab/Portfolio) |
-| **Wallet-Frontend** | React + Tailwind | 🔗 [Link](https://github.com/AbdullahRagaab/wallet-frontend) |
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=flat-square)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+
+### Security & Architecture
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+![WebSocket](https://img.shields.io/badge/WebSocket-4353FF?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=flat-square)
 
 ---
 
-## 📦 Project Template (for each repo)
-```md
-# Project Title
-Short description of the project
+## 🏆 Featured Projects
 
-## Tech Stack
-Frontend: React, Vite, TailwindCSS, TypeScript
-Backend: Node.js, Express, MongoDB
-Other: Axios, React Query
+### 🔹 PolyChat – Real-Time Chat & Video Platform
+**Tech:** React, TypeScript, Tailwind, Node.js, MongoDB, WebSocket  
+- Real-time messaging & video calls  
+- JWT authentication & protected routes  
+- Scalable real-time architecture  
+🔗 [GitHub](#) | 🔗 [Demo](#)
 
-## Features
-- Feature 1
-- Feature 2
-- Authentication (optional)
+---
 
-## Live Demo
-https://your-demo-link.com
+### 🔹 Task Manager System (Enterprise-Style)
+**Tech:** React, TypeScript, Tailwind, React Query, Zustand  
+- Role-based access & authenticated workflows  
+- Advanced task analytics & dashboards  
+- Fully responsive & scalable architecture  
+🔗 [GitHub](https://github.com/AbdullahRagaab/Task-Manager-App)
 
-## Installation
-npm install
-npm run dev
+---
+
+### 🔹 Digital Wallet App
+**Tech:** MERN Stack, JWT  
+- Secure transaction management  
+- Role-based authorization  
+- Protected REST APIs  
+🔗 [GitHub](#)
+
+---
+
+### 🔹 Multilingual AI Voice Learning Platform
+**Tech:** React, TypeScript, Node.js, Hugging Face API  
+- Speech recognition & text-to-speech  
+- AI-powered conversations  
+🔗 [GitHub](#)
+
+---
+
+## 💼 Experience Snapshot
+- **Frontend Developer – Nasr-Soft**  
+  React dashboards for e-commerce & financial systems  
+- **Software Developer – Egyptian Armed Forces**  
+  Training simulators (React, Electron, Node.js)  
+- **MERN Stack Trainer – Route Academy**
+
+---
+
+## 📫 Contact
+- 📧 Email: abdullahragab460@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/abdullah-ragabb  
+- 🌐 Portfolio: https://abdullah-ragab-portfolio.vercel.app  
+- 🐙 GitHub: https://github.com/AbdullahRagaab
