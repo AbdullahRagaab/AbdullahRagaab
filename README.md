@@ -49,16 +49,15 @@ I specialize in **React, TypeScript, Node.js, and MongoDB**, with a solid backgr
 - Real-time messaging & video calls  
 - JWT authentication & protected routes  
 - Scalable real-time architecture  
-🔗 [GitHub](#) | 🔗 [Demo](#)
+🔗 [GitHub](https://github.com/AbdullahRagaab/Fullstack-Chat-Video-Calling-Platform) | 🔗 [Demo](https://abdullah-polychat.vercel.app/)
 
 ---
 
-### 🔹 Task Manager System (Enterprise-Style)
-**Tech:** React, TypeScript, Tailwind, React Query, Zustand  
-- Role-based access & authenticated workflows  
-- Advanced task analytics & dashboards  
-- Fully responsive & scalable architecture  
-🔗 [GitHub](https://github.com/AbdullahRagaab/Task-Manager-App)
+### 🔹 Multilingual AI Voice Learning Platform
+**Tech:** React, TypeScript, Node.js, Hugging Face API  
+- Speech recognition & text-to-speech  
+- AI-powered conversations  
+🔗 [GitHub](https://github.com/AbdullahRagaab/WorldWise) | 🔗 [Demo](https://abdullah-multilingual.vercel.app/)
 
 ---
 
@@ -67,17 +66,11 @@ I specialize in **React, TypeScript, Node.js, and MongoDB**, with a solid backgr
 - Secure transaction management  
 - Role-based authorization  
 - Protected REST APIs  
-🔗 [GitHub](#)
+🔗 [GitHub](https://github.com/AbdullahRagaab/FullStack-Digital-Wallet) | 🔗 [Demo](https://abdullah-wallet.vercel.app/)
 
 ---
 
-### 🔹 Multilingual AI Voice Learning Platform
-**Tech:** React, TypeScript, Node.js, Hugging Face API  
-- Speech recognition & text-to-speech  
-- AI-powered conversations  
-🔗 [GitHub](#)
 
----
 
 ## 💼 Experience Snapshot
 - **Frontend Developer – Nasr-Soft**  
